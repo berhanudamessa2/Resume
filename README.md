@@ -2,7 +2,7 @@
 **SQL Developer**
 
 **Email:** berhanushimeles@gmail.com
-**Github:** https://gist.github.com/berhanudamessa2/ccf3b575808c2964b7b573edea1d2c5c
+**Github:** https://github.com/berhanudamessa2/Resume/blob/main/README.md
 **LinkedIn:** https://www.linkedin.com/in/berhanu-damessa-41989268/
 
 ---
